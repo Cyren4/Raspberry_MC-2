@@ -6,7 +6,7 @@ This repository will contain the code to use.
 - Get a track of launch
 
 ## Version of OS on Raspberry pi[...]
-This project is written in C++ or python? 
+This project is written in python 
 
 ## Camera Pi camera
 - OpenCV 
